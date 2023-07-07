@@ -23,7 +23,7 @@
 8	pas	pas	ADV	_	Polarity=Neg	7	mod	_	_
 9	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	comp:pred	_	_
 10	qui	qui	PRON	_	PronType=Rel	11	subj	_	_
-11	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	mod@relcl	_	_
+11	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	mod	_	_
 12	euh	euh	INTJ	_	_	15	discourse	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	des	des	DET	_	Gender=Fem|Number=Plur	15	det	_	_
